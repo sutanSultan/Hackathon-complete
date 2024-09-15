@@ -1,0 +1,13 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+.sect {
+    border: 1px solid hwb(62 36% 24%);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.editable {
+    background-color: hsl(169, 64%, 63%);;
+    padding: 10px;
+}

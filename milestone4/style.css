@@ -1,0 +1,15 @@
+[contenteditable="true"] {
+    outline: 1px dashed #6e8aa8;
+    cursor: text;
+}
+
+[contenteditable="true"]:focus {
+    background-color: #304870a8;
+}
+
+*bstyle{
+    background-color: #a87f6ef1;
+}
+#body {
+    background-color: aquamarine;
+}

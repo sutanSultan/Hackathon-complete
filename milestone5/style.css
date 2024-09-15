@@ -1,0 +1,28 @@
+#body {
+    background-color: #007bff6c;
+}
+
+#shareSection {
+    margin-top: 20px;
+}
+
+#resumeOutput {
+    margin-top: 30px;
+}
+
+#resumeOutput h2 {
+    font-size: 1.5em;
+}
+
+#downloadPDF {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #007BFF;
+    color: #ffffff9d;
+    border: none;
+    cursor: pointer;
+}
+
+#downloadPDF:hover {
+    background-color: #0056b3;
+}
